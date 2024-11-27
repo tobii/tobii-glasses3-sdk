@@ -1,8 +1,8 @@
-# Tobii Pro Glasses 3 SDK for .net [![Build](https://github.com/tobiipro/Tobii.Glasses3.SDK/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/tobiipro/Tobii.Glasses3.SDK/actions/workflows/build.yml)
+# Tobii Pro Glasses 3 SDK for .net [![Build](https://github.com/tobii/Tobii.Glasses3.SDK/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/tobii/Tobii.Glasses3.SDK/actions/workflows/build.yml)
 
 ## License
 The source code for this SDK and its examples is licensed under the 
-[Tobii Pro Software Development License Agreement](https://github.com/tobiipro/Tobii.Glasses3.SDK/tree/main/SDLA).
+[Tobii Pro Software Development License Agreement](https://github.com/tobii/Tobii.Glasses3.SDK/tree/main/SDLA).
 
 ## Installation 
 
@@ -62,7 +62,7 @@ Demo that shows
 * Take and show snapshots/thumbnails
 
 ### LSL Connector for Glasses 3
-This is a complete sample that will expose Glasses3 data streams to as Lab Streaming Layer data streams. To run the sample, just build and start it. It will automatically locate any available Glasses 3 device and register a stream outlet for the gaze stream from the unit. You can also download precompiled binaries (for windows) from the [releases section](https://github.com/tobiipro/Tobii.Glasses3.SDK/releases).
+This is a complete sample that will expose Glasses3 data streams to as Lab Streaming Layer data streams. To run the sample, just build and start it. It will automatically locate any available Glasses 3 device and register a stream outlet for the gaze stream from the unit. You can also download precompiled binaries (for windows) from the [releases section](https://github.com/tobii/Tobii.Glasses3.SDK/releases).
 
 ### Document extractor for Glasses 3
 This example shows how to access metadata for the API including the documentation that is used to build the API browser in the WebUI for Glasses 3. It will extract the documentation and save it as a json-file. There is also a very simple viewer for such json-files that can show two json-files side by side and highlight the changes. 
